@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-app/index.html/static/css/main.f2846c39.css",
-    "main.js": "/my-app/index.html/static/js/main.dfa08b17.js",
-    "static/media/Thumb.PNG": "/my-app/index.html/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
-    "index.html": "/my-app/index.html/index.html",
-    "main.f2846c39.css.map": "/my-app/index.html/static/css/main.f2846c39.css.map",
-    "main.dfa08b17.js.map": "/my-app/index.html/static/js/main.dfa08b17.js.map"
+    "main.css": "/WebPractice/index.html/static/css/main.f2846c39.css",
+    "main.js": "/WebPractice/index.html/static/js/main.939ce6e7.js",
+    "static/media/Thumb.PNG": "/WebPractice/index.html/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
+    "index.html": "/WebPractice/index.html/index.html",
+    "main.f2846c39.css.map": "/WebPractice/index.html/static/css/main.f2846c39.css.map",
+    "main.939ce6e7.js.map": "/WebPractice/index.html/static/js/main.939ce6e7.js.map"
   },
   "entrypoints": [
     "static/css/main.f2846c39.css",
-    "static/js/main.dfa08b17.js"
+    "static/js/main.939ce6e7.js"
   ]
 }
