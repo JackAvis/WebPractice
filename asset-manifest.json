@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebPractice/my-app/index.html/static/css/main.f2846c39.css",
-    "main.js": "/WebPractice/my-app/index.html/static/js/main.68163bec.js",
-    "static/media/Thumb.PNG": "/WebPractice/my-app/index.html/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
-    "index.html": "/WebPractice/my-app/index.html/index.html",
-    "main.f2846c39.css.map": "/WebPractice/my-app/index.html/static/css/main.f2846c39.css.map",
-    "main.68163bec.js.map": "/WebPractice/my-app/index.html/static/js/main.68163bec.js.map"
+    "main.css": "/WebPractice/static/css/main.f2846c39.css",
+    "main.js": "/WebPractice/static/js/main.7d7cd622.js",
+    "static/media/Thumb.PNG": "/WebPractice/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
+    "index.html": "/WebPractice/index.html",
+    "main.f2846c39.css.map": "/WebPractice/static/css/main.f2846c39.css.map",
+    "main.7d7cd622.js.map": "/WebPractice/static/js/main.7d7cd622.js.map"
   },
   "entrypoints": [
     "static/css/main.f2846c39.css",
-    "static/js/main.68163bec.js"
+    "static/js/main.7d7cd622.js"
   ]
 }
