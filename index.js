@@ -1,1 +1,0 @@
-ReactDOM.render(<p>test, one twoo</p>, document.getElementById("root") )
