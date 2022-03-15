@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebPractice/static/css/main.f2846c39.css",
-    "main.js": "/WebPractice/static/js/main.7d7cd622.js",
-    "static/media/Thumb.PNG": "/WebPractice/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
-    "index.html": "/WebPractice/index.html",
-    "main.f2846c39.css.map": "/WebPractice/static/css/main.f2846c39.css.map",
-    "main.7d7cd622.js.map": "/WebPractice/static/js/main.7d7cd622.js.map"
+    "main.css": "/my-app/static/css/main.f2846c39.css",
+    "main.js": "/my-app/static/js/main.f18853eb.js",
+    "static/media/Thumb.PNG": "/my-app/static/media/Thumb.123c7458c7dd31d02f3d.PNG",
+    "index.html": "/my-app/index.html",
+    "main.f2846c39.css.map": "/my-app/static/css/main.f2846c39.css.map",
+    "main.f18853eb.js.map": "/my-app/static/js/main.f18853eb.js.map"
   },
   "entrypoints": [
     "static/css/main.f2846c39.css",
-    "static/js/main.7d7cd622.js"
+    "static/js/main.f18853eb.js"
   ]
 }
