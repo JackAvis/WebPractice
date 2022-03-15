@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jdavis19unc.github.io/WebPractice/my-app/index.html",
+  "homepage": "https://jdavis19unc.github.io/my-app/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
