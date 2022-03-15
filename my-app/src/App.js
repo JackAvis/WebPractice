@@ -1,18 +1,14 @@
-
-
-let x = [1, 2, 3];
-
-function Test(){
-    let y = 1+2;
-    return <h1>{y}</h1>
-}
+import Nav from "./components/Navbar.js"
+import Main from "./components/Main.js"
 
 function App(){
     return (
         <div>
-            <Test />
-            <p> This Paragraph </p>
+            <Nav />
+            <Main />
+            <a href="http://127.0.0.1:5500/my-app/src/t.html" target="_blank">Press</a>
         </div>
+
     )
 }
 
