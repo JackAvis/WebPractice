@@ -6,7 +6,7 @@ function App(){
         <div>
             <Nav />
             <Main />
-            <a href="http://127.0.0.1:5500/my-app/src/t.html" target="_blank">Press</a>
+
         </div>
 
     )
