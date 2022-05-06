@@ -1,7 +1,9 @@
 
 import basicListIteration from "../images/BasicListIteration.gif"
+import functionvisual from "../images/Function.gif"
 
 let im = <img src = {basicListIteration} height="300px"></img>;
+let imfunction = <img src = {functionvisual} height="300px"></img>;
 
 function Main(){
 
@@ -20,6 +22,12 @@ function Main(){
                         <h1>Basic List Iteration</h1>
                         {im}
                         </a>
+                        <a href= "https://jdavis19unc.github.io/Visuals/sinAnimationPlayable.html" target="_blank">
+                            
+                        <h1>Function Visualizer</h1>
+                        {imfunction}
+                        </a>
+                        
                     </a>
                 </li>
 
